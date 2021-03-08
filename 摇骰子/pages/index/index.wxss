@@ -1,0 +1,12 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inside{
+  position: relative;
+  left: -46vw;
+  top: 2vh;
+  width: 35vw;
+  height: 35vw;
+}
